@@ -1,0 +1,11 @@
+
+2022/02/07 17:11:21 error: open /path/to/config.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/B0218162/Documents/LEARNINGS/MEDIUM-BLOG/GO/errors_complete_1.go:23
+main.main
+	/Users/B0218162/Documents/LEARNINGS/MEDIUM-BLOG/GO/errors_complete_1.go:44
+runtime.main
+	/usr/local/go/src/runtime/proc.go:255
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1581
